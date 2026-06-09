@@ -1,5 +1,4 @@
 # adaptive-rl-robust-control
-# adaptive-rl-robust-control
 
 **Adaptive RL for robust control under dynamics shift**, with a human-aware avoidance experiment.
 
