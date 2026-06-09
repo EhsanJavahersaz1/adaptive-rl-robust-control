@@ -1,0 +1,4 @@
+__pycache__/
+*.zip
+models/*.zip
+.venv/
